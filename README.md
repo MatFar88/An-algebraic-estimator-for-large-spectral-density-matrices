@@ -1,1 +1,2 @@
 # An-algebraic-estimator-for-large-spectral-density-matrices
+'UNALSE_final.m' carries out UNALSE computational routine, introduced in the paper 'An algebraic estimator for large spectral density matrices' by Barigozzi, M. and Farnè, M. (2021). 'spectral_x.m' calculates the classical smoothed periodogram. The dataset 'DATA_US_BL.mat' gathers 101 quarterly macroeconomic indicators regarding the US economy over T = 210 time points spanning the period 1960:Q2-2012:Q3.
